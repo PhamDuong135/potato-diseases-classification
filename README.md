@@ -10,8 +10,13 @@ pip3 install -r api/requirements.txt
 1. Install Nodejs ([Download](https://nodejs.org/en/download/package-manager/))
 2. Install NPM
 3. Install Dependencies
-```
+```bash
 cd frontend
-npm install --from-lock-json
+npm install
 npm audit fix
 ```
+
+4. Copy `.env.example` as `.env`.
+5. Change API url in `.env`.
+6. 
+
