@@ -1,6 +1,10 @@
-<h2>Set up for Python:</h2>
-<p>1, Install Python: <a href=https://www.python.org/>Download Python</a></p>
-<p>2, Install Python packages:</p>
-<code>pip3 install -r training/requirements.txt</code> <br>
-<code>pip3 install -r api/requirements.txt</code>
-<h2>Set up for ReactJS:</h2>
+## Set up for Python
+1. Install Python: ([Download Python](https://www.python.org))
+
+2. Install Python packages:
+```
+pip3 install -r training/requirements.txt
+pip3 install -r api/requirements.txt
+```
+## Set up for ReactJS
+1. Install Nodejs ([Download Nodejs](https://nodejs.org/en/download/package-manager/))
