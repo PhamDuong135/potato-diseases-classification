@@ -3,3 +3,4 @@
 <p>2, Install Python packages:</p>
 <code>pip3 install -r training/requirements.txt</code> <br>
 <code>pip3 install -r api/requirements.txt</code>
+<h2>Set up for ReactJS:</h2>
